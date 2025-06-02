@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Malintha Bandara</h1>
 <h3 align="center">A passionate Network Engineer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **phython, AI , Firewall**
+- 🌱 I’m currently learning ** AI , Firewall**
 
-- 💬 Ask me about **Cryptography,Networking**
+- 💬 Ask me about **phython,Cryptography,Networking**
 
 - 📫 How to reach me **malinthabs23944@gmail.com**
 
